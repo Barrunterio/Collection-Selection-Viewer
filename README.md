@@ -5,5 +5,6 @@ ____________
 
 Module operator that exclude all collections except selected ones that makes them enable.
 
+It's executed by button press on the header of Outliner
 
 Once activated you can exit by pressing : <kbd>ESC</kbd>, <kbd>Right Click</kbd> or get another context enviroment different from current outliner.
