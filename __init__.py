@@ -64,7 +64,7 @@ def BRT_OUTLINER_UI_HEADER(self, context):
     layout = self.layout
     layout.operator("wm.brt_collection_selection",text="",icon='VIS_SEL_11')
 
-class TRT_Collection_Viewer_Selection_PreferencesPanel(AddonPreferences):
+class BRT_Collection_Viewer_Selection_PreferencesPanel(AddonPreferences):
     bl_idname = __name__
     bl_label = "Intruction to use"
     def draw_header(self, context):
